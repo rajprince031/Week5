@@ -1,0 +1,20 @@
+[
+  {
+    "match_id": 1,
+    "team1": "Mumbai Indians",
+    "team2": "Chennai Super Kings",
+    "player_of_the_match": "Rohit Sharma",
+    "score_team1": 180,
+    "score_team2": 175,
+    "match_date": "2023-04-01"
+  },
+  {
+    "match_id": 2,
+    "team1": "Royal Challengers Bangalore",
+    "team2": "Delhi Capitals",
+    "player_of_the_match": "Virat Kohli",
+    "score_team1": 150,
+    "score_team2": 160,
+    "match_date": "2023-04-02"
+  }
+]
